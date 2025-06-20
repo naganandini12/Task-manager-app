@@ -1,4 +1,5 @@
 Aim is to create a task management app through which we can add,delete,list,and get recommended about the tasks.
+
 Step 1: Set up the virtual environment.(On Windows, use task_app\Scripts\activate)
 
 Step 2:Install the libraries required (numpy,scikit-learn)
